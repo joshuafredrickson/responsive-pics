@@ -794,6 +794,6 @@ Please submit any issues you experience with the **ResponsivePics** library over
 [@twansparant](https://github.com/Twansparant) (creator)
 
 ## Copyright
-Code and documentation copyright 2017-2023 by [Clarify](https://clarify.nl).  
+Code and documentation copyright 2017-2025 by [Clarify](https://clarify.nl).  
 Code released under the [MIT License](https://github.com/clarifynl/responsive-pics/blob/master/LICENSE).  
 Docs released under Creative Commons.
