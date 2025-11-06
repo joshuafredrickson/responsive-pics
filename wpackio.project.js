@@ -8,7 +8,7 @@ module.exports = {
 	// Used to generate banners on top of compiled stuff
 	bannerConfig: {
 		name: 'ResponsivePics',
-		author: 'Clarify',
+		author: 'Toine Kamps',
 		link: 'https://responsive.pics',
 		license: 'UNLICENSED',
 		version: pkg.version,

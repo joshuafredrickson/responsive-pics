@@ -75,7 +75,7 @@ wp plugin activate responsive-pics
 ```
 
 ### via WordPress Admin Panel
-1. Download the [latest zip](https://github.com/clarifynl/responsive-pics/releases/latest) of this repo.
+1. Download the [latest zip](https://github.com/Twansparant/responsive-pics/releases/latest) of this repo.
 2. In your WordPress admin panel, navigate to **Plugins->Add New**
 3. Click **Upload Plugin**
 4. Upload the zip file that you downloaded.
@@ -778,7 +778,7 @@ import 'lazysizes/plugins/aspectratio/ls.aspectratio.js';
 ---
 
 ## Issues
-Please submit any issues you experience with the **ResponsivePics** library over at [Github](https://github.com/clarifynl/responsive-pics/issues).
+Please submit any issues you experience with the **ResponsivePics** library over at [Github](https://github.com/Twansparant/responsive-pics/issues).
 
 ## Todo's
 * Add Application Password Authentication to REST API endpoints.
@@ -790,10 +790,9 @@ Please submit any issues you experience with the **ResponsivePics** library over
 ## Maintainers
 **ResponsivePics** is developed and maintained by:
 
-[@monokai](https://github.com/monokai) (creator)  
 [@twansparant](https://github.com/Twansparant) (creator)
 
 ## Copyright
-Code and documentation copyright 2017-2025 by [Clarify](https://clarify.nl).  
-Code released under the [MIT License](https://github.com/clarifynl/responsive-pics/blob/master/LICENSE).  
+Code and documentation copyright 2017-2025 by [Toine Kamps](https://toinekamps.com).  
+Code released under the [MIT License](https://github.com/Twansparant/responsive-pics/blob/master/LICENSE).  
 Docs released under Creative Commons.
