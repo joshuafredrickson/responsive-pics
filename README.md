@@ -66,7 +66,7 @@ You can install this plugin via the command-line or the WordPress admin panel.
 If you're [using Composer to manage WordPress](https://roots.io/using-composer-with-wordpress/), add **ResponsivePics** to your project's dependencies.
 
 ```sh
-composer require clarifynl/responsive-pics
+composer require toinekamps/responsive-pics
 ```
 Then activate the plugin via [wp-cli](http://wp-cli.org/commands/plugin/activate/).
 
