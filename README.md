@@ -793,6 +793,6 @@ Please submit any issues you experience with the **ResponsivePics** library over
 [@twansparant](https://github.com/Twansparant) (creator)
 
 ## Copyright
-Code and documentation copyright 2017-2025 by [Toine Kamps](https://toinekamps.com).  
+Code and documentation copyright 2017-2025 by [Toine Kamps](https://toinekamps.com) & [Clarify](https://clarify.nl).  
 Code released under the [MIT License](https://github.com/Twansparant/responsive-pics/blob/master/LICENSE).  
 Docs released under Creative Commons.
