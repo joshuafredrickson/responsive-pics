@@ -5,6 +5,7 @@
 	Description: Responsive Pics is a Wordpress tool for resizing images on the fly.
 	Author: Toine Kamps (previously Clarify)
 	Version: 1.9.4
+	Requires PHP: 7.0
 	Author URI: https://toinekamps.com
 	Copyright: Toine Kamps
 */
@@ -31,7 +32,7 @@ class ResponsivePicsWP
 	 */
 	function __construct() {
 		// php check
-		if (version_compare(phpversion(), '5.6', '<')) {
+		if (version_compare(phpversion(), '7.0', '<')) {
 			add_action('admin_notices', array($this, 'upgrade_notice'));
 			return;
 		}
@@ -63,11 +64,11 @@ class ResponsivePicsWP
 	}
 
 	/**
-	 * Require PHP 5.6+
+	 * Require PHP 7.0+
 	 */
 	function upgrade_notice() {
 		$message = __('ResponsivePics requires PHP %s or above. Please contact your host and request a PHP upgrade.', 'responsive-pics');
-		echo '<div class="error"><p>' . sprintf($message, '5.6') . '</p></div>';
+		echo '<div class="error"><p>' . sprintf($message, '7.0') . '</p></div>';
 	}
 }
 
