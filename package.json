@@ -1,6 +1,6 @@
 {
   "name": "responsive-pics",
-  "version": "1.9.4",
+  "version": "1.9.5",
   "private": true,
   "scripts": {
     "bootstrap": "wpackio-scripts bootstrap",
@@ -10,9 +10,9 @@
   },
   "devDependencies": {
     "@wpackio/scripts": "^6.4.0",
-    "cssnano": "^7.0.7",
-    "postcss": "^8.5.16",
-    "sass": "^1.89.2"
+    "cssnano": "^8.0.2",
+    "postcss": "^8.5.21",
+    "sass": "^1.101.3"
   },
   "dependencies": {
     "@wpackio/entrypoint": "^6.4.0"
