@@ -2,12 +2,12 @@
  * 
  * ResponsivePics
  * 
- * @author Clarify
- * @version 1.9.4
+ * @author Toine Kamps
+ * @version 1.9.5
  * @link https://responsive.pics
  * @license UNLICENSED
  * 
- * Copyright (c) 2025 Clarify
+ * Copyright (c) 2026 Toine Kamps
  * 
  * This software is released under the UNLICENSED License
  * https://opensource.org/licenses/UNLICENSED
