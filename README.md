@@ -45,7 +45,7 @@ For full documentation and examples visit: [responsive.pics](https://responsive.
   </thead>
   <tbody>
     <tr>
-      <td><strong>PHP</strong> &gt;= 5.6.x</td>
+      <td><strong>PHP</strong> &gt;= 7.0.x</td>
       <td><code>php -v</code></td>
     </tr>
     <tr>
